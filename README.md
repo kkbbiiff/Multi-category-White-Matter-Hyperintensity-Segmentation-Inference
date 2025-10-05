@@ -17,8 +17,9 @@ T1w images (.nii.gz format)
   Naming structure: `Index_Group_PatientInitials_FLAIR_ScanDate_PR_T1.nii.gz`  
 
 > **Important Notes**
-> - For the same patient, FLAIR and T1w images must share the same core filename (only differing by the "_T1" suffix).  
-> - If index, group, or scan date is unavailable, use arbitrary numbers as substitutes. **No fields may be omitted**.  
+> 
+> For the same patient, FLAIR and T1w images must share the same core filename (only differing by the "_T1" suffix).  
+> If index, group, or scan date is unavailable, use arbitrary numbers as substitutes. **No fields may be omitted**.  
 
 
 ## 2. Data Preprocessing
